@@ -6,5 +6,7 @@ class name{
         int row=sc.nextInt();
         Sysrem.out.println("hello worl!");
         System.out.println("a sunny day today try hard");
+        System.out.println("a sunny day today try");
+        
     }
 }
