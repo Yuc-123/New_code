@@ -4,5 +4,6 @@ class name{
         System.out.println("my name is yusuf");
         Scanner sc=new Scanner(System.in);
         int row=sc.nextInt();
+        Sysrem.out.println("hello worl!");
     }
 }
