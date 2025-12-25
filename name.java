@@ -5,6 +5,6 @@ class name{
         Scanner sc=new Scanner(System.in);
         int row=sc.nextInt();
         Sysrem.out.println("hello worl!");
-        System.out.println("a sunny day today");
+        System.out.println("a sunny day today try hard");
     }
 }
